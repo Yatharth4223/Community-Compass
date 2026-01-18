@@ -75,7 +75,7 @@ export default function DashboardLayout({
               <div style={{ color: "white", fontSize: 22, fontWeight: 900 }}>
                 Community Resources
               </div>
-              <div style={{ color: "#94a3b8", fontSize: 14 }}>Find help near you</div>
+              <div style={{ color: "#94a3b8", fontSize: 14 }}>Find help. Right where you are</div>
             </div>
           </div>
 
@@ -194,7 +194,7 @@ export default function DashboardLayout({
                     value={searchQuery}
                     onChange={(e) => setSearchQuery(e.target.value)}
                     style={{
-                      width: "100%",
+                      width: "88%",
                       padding: "12px 40px 12px 14px",
                       borderRadius: 12,
                       border: "1px solid rgba(148, 163, 184, 0.18)",
