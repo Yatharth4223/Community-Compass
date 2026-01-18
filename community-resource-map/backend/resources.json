@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Oakville Food Bank",
+    "category": "Food",
+    "address": "123 Main St, Oakville, ON",
+    "lat": 43.4505,
+    "lng": -79.6821,
+    "wheelchair": true,
+    "languages": ["English", "French"],
+    "hours": "Mon–Fri 9am–5pm",
+    "phone": "905-000-0000"
+  },
+  {
+    "id": 2,
+    "name": "Community Health Clinic",
+    "category": "Health",
+    "address": "456 Elm St, Oakville, ON",
+    "lat": 43.4478,
+    "lng": -79.6753,
+    "wheelchair": false,
+    "languages": ["English"],
+    "hours": "Mon–Sat 10am–6pm",
+    "phone": "905-111-1111"
+  },
+  {
+    "id": 3,
+    "name": "Downtown Shelter Support",
+    "category": "Shelter",
+    "address": "789 King St, Oakville, ON",
+    "lat": 43.4522,
+    "lng": -79.6902,
+    "wheelchair": true,
+    "languages": ["English", "Hindi", "Punjabi"],
+    "hours": "24/7",
+    "phone": "905-222-2222"
+  }
+]
